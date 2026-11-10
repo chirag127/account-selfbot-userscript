@@ -41,5 +41,6 @@ own messages, right-click → **Bulk delete own messages**, confirm the dry-run 
 shows the count. Then flip dry-run OFF and confirm the messages are deleted at the
 configured pace.
 
-Documentation is single-sourced at `c:\ws\docs\okf\`. Your note:
-`c:\ws\docs\okf\scripts\account-selfbot-userscript.md`. Do not create an `okf/` folder here.
+Documentation is single-sourced at `c:\ws\docs/okf\`. Your note:
+`c:\ws\docs/okf\scripts\account-selfbot-userscript.md`. Do not create an `okf/` folder here.
+
